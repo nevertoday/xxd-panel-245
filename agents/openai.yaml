@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 245"
-  short_description: "记忆留白：上半保留原照，下半把最有记忆的轮廓收成安静的民艺留白"
-  default_prompt: "Use $xxd-panel-245 to transform my photograph following the complete canonical source brief."
+  short_description: "记忆留白：把照片收成一页安静的记忆，圆润简化、断续手绘线、粉质水粉、四周大片白纸"
+  default_prompt: "Use $xxd-panel-245 to turn my photo into Memory in White Space artwork."

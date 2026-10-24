@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 245｜Memory in White Space: keeps only the most recognisable outline and relationships in a photo and redraws them as a quiet, slightly naive folk-modern illustration — rounded simplified forms, flattened perspective, a loose hand-drawn single line with pauses and corrections, powdery gouache, crayon grain and uneven risograph-like colour in a small palette of cream, deep teal, misty blue, butter yellow, plant green and soft coral, a tiny off-centre subject in a wide field of warm paper and a few light handwritten words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-245 or asks for quiet folk-modern, gouache storybook or memory-like minimal illustration from a photo.",
+  "short_description": "记忆留白：把照片收成一页安静的记忆，圆润简化、断续手绘线、粉质水粉、四周大片白纸",
+  "zh-CN": {
+    "name": "记忆留白",
+    "tagline": "把照片收成一页安静的记忆：圆润简化的小主体，四周是大片白纸。",
+    "look": "只留下照片里最有识别性的轮廓和关系，画成安静、略带稚拙的现代民艺插画：形体圆润简化，透视放平，线条是松弛的手绘单线，留着停顿和修正。上色用粉质水粉、蜡笔颗粒和一点 Risograph 式的不均匀，颜色收成奶油白、深青绿、雾蓝、黄油黄、植物绿、淡珊瑚这样的有限几种。主体很小，可以偏心、被裁切或悬在空白里，四周是大片暖色纸面。旁边可以有几句轻盈的手记式文字，语种不限。",
+    "traits": ["选择性记忆", "民艺现代", "圆润简化", "断续手绘线", "粉质水粉", "大量白纸"],
+    "good": [
+      "一个有记忆点的主体：一座小房子、一棵树、一只狗、一把椅子",
+      "旅行或生活里想留住的片刻：窗边一杯茶、海边小屋、晾着的衣服",
+      "个人摄影整理、绘本页、旅行手记"
+    ],
+    "poor": [
+      "想完整保留场景或很多细节的照片：街景全貌、合影",
+      "需要真实比例和准确样子的：产品图、人像",
+      "想要光滑矢量、3D、过度可爱或荧光色的效果"
+    ]
+  },
+  "en": {
+    "name": "Memory in White Space",
+    "tagline": "Turns your photo into a quiet page of memory: a small, rounded, simplified subject in a wide field of paper.",
+    "look": "Only the most recognisable outline and relationships in the photo remain, redrawn as a quiet, slightly naive folk-modern illustration: rounded simplified forms, flattened perspective and a loose hand-drawn single line that keeps its pauses and corrections. Colour goes on as powdery gouache with crayon grain and a little risograph-like unevenness, in a few chosen colours such as cream, deep teal, misty blue, butter yellow, plant green and soft coral. The subject is small and may sit off-centre, be cropped or float in the empty space, surrounded by a wide field of warm paper. A few light, handwritten-style words in any language can sit beside it.",
+    "traits": ["Selective memory", "Folk-modern", "Rounded simplification", "Broken hand line", "Powdery gouache", "Lots of white paper"],
+    "good": [
+      "One subject worth remembering: a small house, a tree, a dog, a chair",
+      "Moments from travel or daily life you want to keep: tea by a window, a seaside hut, laundry on a line",
+      "Personal photo collections, picture-book pages, travel notebooks"
+    ],
+    "poor": [
+      "Photos where you want the whole scene or lots of detail kept: full street views, group photos",
+      "Anything that needs true proportions and an exact likeness: product shots, portraits",
+      "Requests for smooth vector, 3D, overly cute or neon looks"
+    ]
+  },
+  "ja": {
+    "name": "記憶の余白",
+    "tagline": "写真を静かな記憶の一ページにします。丸く簡略化した小さな主役のまわりに、広い白い紙。",
+    "look": "写真でいちばん印象的な輪郭と関係だけを残し、静かで少し素朴なモダン民藝風のイラストに描き直します。形は丸く簡略化し、遠近は平らにして、線はゆるい手描きの一本線で、ためらいや描き直しも残します。色は粉っぽいガッシュにクレヨンの粒子、リソグラフのようなむらを少し加え、生成り、深いティール、霧のような青、バターイエロー、草の緑、淡いコーラルといった限られた色にまとめます。主役は小さく、中心からずれても、切れても、余白に浮いてもかまいません。まわりは温かみのある広い紙面です。言語を問わない軽やかな手書き風の言葉を添えることもできます。",
+    "traits": ["選び取った記憶", "モダン民藝", "丸い簡略化", "途切れる手描き線", "粉っぽいガッシュ", "たっぷりの白い紙"],
+    "good": [
+      "記憶に残る一つの主役：小さな家、一本の木、犬、椅子",
+      "旅や暮らしの中で残しておきたい瞬間：窓辺のお茶、海辺の小屋、干した洗濯物",
+      "個人の写真整理、絵本のページ、旅の手帖"
+    ],
+    "poor": [
+      "場面全体や細部をそのまま残したい写真：街並みの全景、集合写真",
+      "実際の比率や正確な見た目が必要なもの：商品写真、人物写真",
+      "なめらかなベクター、3D、かわいすぎる絵柄、蛍光色を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기억의 여백",
+    "tagline": "사진을 조용한 기억 한 페이지로 바꿉니다. 둥글게 단순화한 작은 주인공 둘레로 넓은 흰 종이.",
+    "look": "사진에서 가장 알아보기 쉬운 윤곽과 관계만 남겨, 조용하고 조금 서툰 현대 민예풍 일러스트로 다시 그립니다. 형태는 둥글게 단순화하고 원근은 평평하게 펴며, 선은 머뭇거림과 고친 흔적이 남은 느슨한 손그림 외곽선입니다. 색은 가루 같은 과슈에 크레용 입자와 리소그래프 같은 얼룩을 조금 더해, 크림색, 짙은 청록, 안개 낀 파랑, 버터 노랑, 풀빛 초록, 연한 코랄처럼 몇 가지로만 씁니다. 주인공은 작게, 중심에서 벗어나거나 잘리거나 여백에 떠 있어도 되고, 둘레는 따뜻한 종이 면이 넓게 펼쳐집니다. 옆에 언어 제한 없는 가벼운 손글씨 느낌의 문장을 몇 줄 둘 수 있습니다.",
+    "traits": ["골라낸 기억", "현대 민예", "둥근 단순화", "끊기는 손그림 선", "가루 같은 과슈", "넓은 흰 종이"],
+    "good": [
+      "기억에 남을 주인공 하나: 작은 집, 나무 한 그루, 강아지, 의자",
+      "여행이나 일상에서 남기고 싶은 순간: 창가의 차 한 잔, 바닷가 오두막, 널어 둔 빨래",
+      "개인 사진 정리, 그림책 페이지, 여행 수첩"
+    ],
+    "poor": [
+      "장면 전체나 많은 세부를 살리고 싶은 사진: 거리 전경, 단체 사진",
+      "실제 비율과 정확한 모습이 필요한 것: 제품 사진, 인물 사진",
+      "매끈한 벡터, 3D, 지나치게 귀여운 그림체, 형광색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "فراغ الذاكرة",
+    "tagline": "يحوّل صورتك إلى صفحة هادئة من الذاكرة: عنصر صغير مستدير مبسّط وسط مساحة واسعة من الورق.",
+    "look": "لا يبقى من الصورة إلا أوضح خطوطها الخارجية وعلاقاتها، وتُرسم من جديد بأسلوب شعبي حديث هادئ فيه شيء من السذاجة: أشكال مستديرة مبسّطة ومنظور مسطّح وخط يدوي واحد مرتخٍ يحتفظ بتوقفاته وتصحيحاته. تُطلى الألوان بغواش بودري مع حبيبات الطباشير الشمعي وشيء من عدم الانتظام كطباعة الريزوغراف، في ألوان قليلة مختارة مثل الكريمي والأزرق المخضر الداكن والأزرق الضبابي وأصفر الزبدة وأخضر النبات والمرجاني الخفيف. العنصر صغير، وقد يبتعد عن المركز أو يُقتطع أو يطفو في الفراغ، وحوله مساحة واسعة من ورق دافئ اللون. يمكن أن ترافقه كلمات قليلة خفيفة بخط يشبه خط اليد وبأي لغة.",
+    "traits": ["ذاكرة انتقائية", "شعبي حديث", "تبسيط مستدير", "خط يدوي متقطع", "غواش بودري", "ورق أبيض واسع"],
+    "good": [
+      "عنصر واحد يستحق التذكّر: بيت صغير، شجرة، كلب، كرسي",
+      "لحظات من السفر أو الحياة اليومية تريد حفظها: شاي قرب نافذة، كوخ على الشاطئ، غسيل منشور",
+      "ترتيب الصور الشخصية، صفحات كتب مصوّرة، دفاتر السفر"
+    ],
+    "poor": [
+      "صور تريد أن يبقى فيها المشهد كله أو تفاصيل كثيرة: مناظر الشوارع الكاملة، الصور الجماعية",
+      "ما يحتاج إلى نِسب حقيقية وشبه دقيق: صور المنتجات، الصور الشخصية",
+      "طلب رسم متجهي أملس أو ثلاثي الأبعاد أو لطافة مفرطة أو ألوان فسفورية"
+    ]
+  }
+}

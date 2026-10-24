@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-245
-description: "Create XXD Panel 245 raster artwork: a faithful photograph paired with a quiet nostalgic folk-modern memory of rounded simplified forms, a loose imperfect line, powdery gouache and crayon, and a large field of untouched paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-245 or asks for this 记忆留白 style."
+description: "XXD Panel 245｜Memory in White Space: keeps only the most recognisable outline and relationships in a photo and redraws them as a quiet, slightly naive folk-modern illustration — rounded simplified forms, flattened perspective, a loose hand-drawn single line with pauses and corrections, powdery gouache, crayon grain and uneven risograph-like colour in a small palette of cream, deep teal, misty blue, butter yellow, plant green and soft coral, a tiny off-centre subject in a wide field of warm paper and a few light handwritten words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-245 or asks for quiet folk-modern, gouache storybook or memory-like minimal illustration from a photo."
 ---
 
 # XXD Panel 245
